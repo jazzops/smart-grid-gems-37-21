@@ -119,7 +119,7 @@ const Index = () => {
                 {t('Panel monitorowania jakości powietrza')}
               </h1>
               <p className="text-sm text-muted-foreground text-center sm:text-left">
-                {t('Monitoruj zużycie i jakość powietrza w czasie rzeczywistym, oraz wykorzystaj potencjał zaawansowanych algorytmów AI ')}
+                {t('Monitoruj zużycie i jakość powietrza w czasie rzeczywistym, oraz wykorzystaj potencjał zaawansowanych algorytmów AI')}
               </p>
             </div>
           </div>
