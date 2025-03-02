@@ -140,26 +140,7 @@ const Index = () => {
         </div>
       </motion.div>
       
-      <div className="pt-28">
-        <SidebarProvider>
-          <div className="min-h-screen flex w-full flex-col lg:flex-row">
-            <CompanySidebar />
-            <main className="flex-1 p-4 lg:pl-[320px] transition-all duration-300">
-              <motion.div
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.8 }}
-                className="flex flex-col gap-6"
-              >
-                <Tabs defaultValue="spaces" className="w-full">
-                  <TabsList className="w-full justify-start overflow-x-auto flex-wrap">
-                    <TabsTrigger value="spaces">{t('spaces')}</TabsTrigger>
-                    <TabsTrigger value="air-quality">Mapy jakości powietrza</TabsTrigger>
-                    <TabsTrigger value="insights">{t('analysis')}</TabsTrigger>
-                    <TabsTrigger value="status">{t('status')}</TabsTrigger>
-                    <TabsTrigger value="sensors">{t('sensors')}</TabsTrigger>
-                    <TabsTrigger value="integrations">{t('integrations')}</TabsTrigger>
-                  </TabsList>
+     
 
                   <TabsContent value="spaces" className="space-y-6">
                     <div className="flex justify-end gap-2 mb-4">
