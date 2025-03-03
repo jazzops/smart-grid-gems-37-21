@@ -128,7 +128,7 @@ Jeśli napotkasz problemy techniczne lub masz pytania dotyczące systemu:
 
 ## Licencja i informacje dodatkowe
 
-System Smart Grid & Air Quality Dashboard został opracowany jako narzędzie do monitorowania jakości powietrza i zużycia energii. Wykorzystuje zaawansowane algorytmy AI do analizy danych i zapewnienia użytkownikom inteligentnego wsparcia w podejmowaniu decyzji.
+System Smart Grid & Air Quality Dashboard został opracowany jako narzędzie do monitorowania jakości powietrza. Wykorzystuje zaawansowane algorytmy AI do analizy danych i zapewnienia użytkownikom inteligentnego wsparcia w podejmowaniu decyzji.
 
 ---
 
