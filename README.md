@@ -66,7 +66,6 @@
 ## Panel monitorowania jakości powietrza
 
 Panel główny zawiera:
-- **Statystyki mocy** - wykresy i dane dotyczące zużycia energii
 - **Wykres jakości powietrza** - historyczne i bieżące dane o jakości powietrza
 - **Status urządzeń** - informacje o stanie urządzeń w sieci
 - **Mapa sieci** - wizualizacja sieci energetycznej
